@@ -15,7 +15,7 @@ Skills: C#
   
 #### Programming Languages & Frameworks / Runtimes:  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/csharp.svg" alt="csharp" width="50" height="50"/> 
+<img src="https://github.com/TheVoidNebula/TheVoidNebula/blob/master/assets/csharp.svg" alt="csharp" width="50" height="50"/> 
 </a>
 
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
