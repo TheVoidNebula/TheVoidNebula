@@ -19,29 +19,11 @@ Skills: C#
 </a>
 
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/dot-net.svg" alt="dotnet" width="50" height="50"/>
+<img src="https://github.com/TheVoidNebula/TheVoidNebula/assets/dot-net.svg" alt="dotnet" width="50" height="50"/>
 </a>
   
 <a href="https://www.java.com/en/" target="_blank"> 
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/java.svg" alt="java" width="50" height="50"/>
-</a>
-
-<a href="https://openjdk.java.net/" target="_blank"> 
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/OpenJdk.png" alt="openjdk" width="50" height="50"/>
-</a>
-
-#### Database:  
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/mysql.svg" alt="mysql" width="50" height="50"/>
-</a>  
-
-#### Additional:
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/git.svg" alt="git" width="50" height="50"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/linux.svg" alt="linux" width="50" height="50"/>
+<img src="https://github.com/TheVoidNebula/TheVoidNebula/assets/java.svg" alt="java" width="50" height="50"/>
 </a>
 
 #### Things I've touched before (Listed from more confident to less confident):
