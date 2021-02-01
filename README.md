@@ -29,35 +29,14 @@ Skills: C#
 <a href="https://openjdk.java.net/" target="_blank"> 
 <img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/OpenJdk.png" alt="openjdk" width="50" height="50"/>
 </a>
-#### Things I've touched before (Listed from more confident to less confident):
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/javascript.svg" alt="javascript" width="50" height="50"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/nodejs.svg" alt="nodejs" width="50" height="50"/>
-</a>  
-
-<a href="https://unity.com/" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/unity3d.svg" alt="unity" width="50" height="50"/>
-</a>  
-
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/cplusplus.svg" alt="cplusplus" width="50" height="50"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/c.svg" alt="c" width="50" height="50"/>
-</a>  
 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmightyLks&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVoidNebula&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmightyLks&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVoidNebula&show_icons=true&count_private=true)  
 
 <br><br>
 
-![GitHub metrics](https://metrics.lecoq.io/AlmightyLks)  
+![GitHub metrics](https://metrics.lecoq.io/TheVoidNebula)  
 
