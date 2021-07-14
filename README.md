@@ -1,8 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/TheVoidNebula)  
-
 ### Helluuuu 👋, welcome to my profile!
-## Server Host
-I am the Leader, owner and founder of the VoidNation.
 
 
 Skills: C#
