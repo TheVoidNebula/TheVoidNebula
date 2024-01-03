@@ -1,10 +1,7 @@
 ### Helluuuu 👋, welcome to my profile!
 
 
-Skills: C#
-
-- 🔭 I’m currently working on SCP Secret Laboratory Server Plugins using the [Synapse](https://github.com/SynapseSL/Synapse/)-API 
-- 🌱 I can code in Java and with that I code Minecraft Spigot Plugins
+Skills: None!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -19,6 +16,9 @@ Skills: C#
 <img src="https://github.com/AlmightyLks/AlmightyLks/blob/master/assets/java.svg" alt="java" width="50" height="50"/>
 </a>
 
+<a href="[https://www.java.com/en/](https://www.lua.org/docs.html)" target="_blank"> 
+<img src="https://i.imgur.com/5PZgj2R.png" alt="lua" width="50" height="50"/>
+</a>
 
 </p>
 
